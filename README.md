@@ -1,2 +1,2 @@
 # CrudApp
-SImple CRUD app in Javascript
+Simple CRUD app in Javascript
